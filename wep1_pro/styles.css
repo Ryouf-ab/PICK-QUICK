@@ -64,7 +64,7 @@ main {
 
 .product {
     display: flex;
-    align-items: last baseline;
+    align-items: left;
     flex-direction: row-reverse; /* لجعل الصورة على اليسار والنص على اليمين */
 
 }
