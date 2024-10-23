@@ -90,6 +90,7 @@ main {
     height: 20px;
     width: 900px;
     border-style:inset;
+    margin: 1px;
 
 }
 .product-review {
