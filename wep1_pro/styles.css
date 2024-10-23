@@ -83,7 +83,7 @@ main {
     font-size: 20px;
     margin-top: .5em;
 }
-.product-details p{
+.product-review.product.product-details p{
     margin-top: 5px;
 }
 .stars {
