@@ -86,6 +86,10 @@ main {
     margin-top: 10px;
 }
 
+.evalText {
+    height: 20px;
+    width: 40px;
+}
 footer {
     background-color: #f4f4f4;
     padding: 20px;
