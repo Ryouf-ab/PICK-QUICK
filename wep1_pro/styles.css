@@ -90,6 +90,7 @@ main {
     height: 20px;
     width: 40px;
     border-style:inset;
+    align-items: center;
 }
 .product-review {
     background-color: rgb(235, 228, 214);
