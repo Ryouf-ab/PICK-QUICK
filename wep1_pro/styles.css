@@ -90,6 +90,10 @@ main {
     height: 20px;
     width: 40px;
 }
+.product-review {
+    background-color: gray;
+}
+
 footer {
     background-color: #f4f4f4;
     padding: 20px;
