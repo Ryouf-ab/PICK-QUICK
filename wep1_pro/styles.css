@@ -93,6 +93,11 @@ main {
     margin: 2px;
 
 }
+.button {
+    background-color: #5fa968;
+    width: 10px;
+    height: 10px;
+}
 .product-review {
     background-color: rgb(235, 228, 214);
 }
