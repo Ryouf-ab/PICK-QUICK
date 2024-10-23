@@ -97,7 +97,8 @@ main {
     background-color: #5fa968;
     width: 150px;
     height: 30px;
-    padding: 5px 5px 5px 500px;
+    margin-left: 100px;
+    padding: 5px 50px;
     cursor: pointer;
 
     display: block;
