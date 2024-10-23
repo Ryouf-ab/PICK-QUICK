@@ -65,8 +65,8 @@ main {
 }
 
 .product img {
-    width:150;
-    height:150;
+    width:150px;
+    height:150px;
     margin: .2em;
 }
 .image-placeholder {
