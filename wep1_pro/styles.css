@@ -65,7 +65,7 @@ main {
 .product {
     display: flex;
     align-items: left;
-    flex-direction: row-reverse; /* لجعل الصورة على اليسار والنص على اليمين */
+    justify-content: flex-start; /* تأكد من أن العناصر تترتب من اليسار إلى اليمين */
 
 }
 
@@ -79,7 +79,7 @@ main {
     margin-right: 20px;
 }
 .product-details {
-    text-align: left;
+    margin-right: auto; /* يجبر النص أن يبقى على اليسار */
 }
 .product-details h3 {
     font-size: 20px;
