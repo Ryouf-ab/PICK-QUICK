@@ -64,6 +64,11 @@ main {
     display: flex;
 }
 
+.product img {
+    width:100;
+    height:100;
+    margin: 2em;
+}
 .image-placeholder {
     width: 150px;
     height: 150px;
