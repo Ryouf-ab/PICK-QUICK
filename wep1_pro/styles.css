@@ -89,10 +89,10 @@ main {
 .evalText {
     height: 20px;
     width: 40px;
-    border-style: ridge;
+    border-style:inset;
 }
 .product-review {
-    background-color: rgb(214, 201, 177);
+    background-color: rgb(235, 228, 214);
 }
 
 footer {
