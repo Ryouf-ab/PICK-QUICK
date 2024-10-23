@@ -86,24 +86,21 @@ main {
     margin-top: 10px;
 }
 
-.evalText {
-    height: 20px;
-    width: 500px;
-    border-style:inset;
-    margin: 2px;
-
+.review-input {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end; /* يضع الزر على اليمين */
 }
+
+.evalText {
+    margin-right: 10px;
+    padding: 5px;
+    width: 200px;
+}
+
 .button {
-    background-color: #5fa968;
-    width: 150px;
-    height: 30px;
-    margin-left: 900px;
-    padding: 5px 50px;
+    padding: 5px 10px;
     cursor: pointer;
-
-    display: block;
-    margin: 0 auto;  
-
 }
 .product-review {
     background-color: rgb(235, 228, 214);
