@@ -87,10 +87,10 @@ main {
 }
 
 .evalText {
-    height: 20px;
-    width: 40px;
+    height: 30px;
+    width: 200px;
     border-style:inset;
-    align-items: center;
+
 }
 .product-review {
     background-color: rgb(235, 228, 214);
