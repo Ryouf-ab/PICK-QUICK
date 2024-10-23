@@ -97,6 +97,10 @@ main {
     background-color: #5fa968;
     width: 150px;
     height: 30px;
+  
+        display: block;
+        margin: 0 auto;
+    
     
 }
 .product-review {
